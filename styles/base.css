@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Yatra+One&display=swap');
 
-img {
+header img {
     width: 100%;
     margin: 0;
 }
@@ -14,4 +14,14 @@ h1 {
 body {
     margin-left: 15%;
     margin-right: 15%;
+}
+
+.gallery img {
+    width: 32%;
+    height: auto;
+}
+
+footer p {
+    text-align: center;
+    font-style: italic;
 }

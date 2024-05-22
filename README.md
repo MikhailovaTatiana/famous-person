@@ -24,3 +24,5 @@ Din hyllning ska stylas så snyggt du kan med hjälp av:
 
 #### Mini galleri
 Visa några fler bilder på personen du hyllar i ett litet galleri längre ner på sidan.
+
+<figure><img src="./images/screencapture-famous-person.png" alt="screencapture of the whole page"></figure>
